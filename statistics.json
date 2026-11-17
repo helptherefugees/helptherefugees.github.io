@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-11-16T20:32:14.834Z",
-  "reportingYear": 2025,
+  "checkedAt": "2026-11-17T03:57:48.260Z",
+  "reportingYear": 2026,
   "reportingYears": {
-    "population": 2025,
-    "unrwa": 2025,
-    "idmc": 2025,
+    "population": 2026,
+    "unrwa": 2026,
+    "idmc": 2026,
     "demographics": 2025
   },
-  "totalForciblyDisplaced": 119254738,
+  "totalForciblyDisplaced": 118900779,
   "childrenPercentage": 41,
   "source": "UNHCR Refugee Data Finder",
   "sourceUrl": "https://www.unhcr.org/refugee-statistics/"
